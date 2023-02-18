@@ -170,8 +170,142 @@ Expresamos la fórmula del voltaje de salida en función de la frecuencia, la cu
 
 ![image](https://user-images.githubusercontent.com/116810935/219874500-e4005a5b-8a1e-4781-9fe3-e32f487ec05e.png)
 
+39.	Repita el problema 38 para el circuito de la figura 15-92. Vs =10 V rms y f = 1 kHz.
+
+![image](https://user-images.githubusercontent.com/116810935/219874572-43cf8a31-8680-4bc4-8729-f4dfc2a84b68.png)
 
 
+![image](https://user-images.githubusercontent.com/116810935/219874579-c9fbddd5-3920-46ba-8819-6b3dd7cdd541.png)
+
+
+41.	Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
+
+![image](https://user-images.githubusercontent.com/116810935/219874594-e3f0e6f4-856d-4a22-b2d4-33d6f1657acf.png)
+
+Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+
+![image](https://user-images.githubusercontent.com/116810935/219874612-119c11b8-106f-4b23-9808-0a452cd3744b.png)
+
+43.	Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
+
+![image](https://user-images.githubusercontent.com/116810935/219874630-ba2a1b09-9d3c-4b85-9bc1-190d234fb333.png)
+
+45.	Para el circuito de la figura 15-97, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/116810935/219874659-4b3f032e-cc37-439a-b7df-8f5f3ab0219c.png)
+
+![image](https://user-images.githubusercontent.com/116810935/219874669-e3426fab-9273-4a95-832b-54b9c8138bec.png)
+
+E)
+![image](https://user-images.githubusercontent.com/116810935/219874712-007b2e9d-15c9-488a-ba6e-2536758ad4bf.png)
+
+47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
+
+![image](https://user-images.githubusercontent.com/116810935/219874728-5c4c5e37-c7df-4141-9d8a-2bbdcf7140ba.png)
+
+Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+
+![image](https://user-images.githubusercontent.com/116810935/219874755-eb8aa9ca-6204-4870-ad39-99a77621ea03.png)
+
+![image](https://user-images.githubusercontent.com/116810935/219874764-613a95af-7e36-44bc-b99a-5f17a33778a7.png)
+
+![image](https://user-images.githubusercontent.com/116810935/219874775-f26c74b7-dc74-46fb-9394-62b259a6a4a2.png)
+
+
+##### SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo 
+49.	Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
+
+
+![image](https://user-images.githubusercontent.com/116810935/219874789-22408d1a-5055-4856-9626-50e1ec7ce375.png)
+
+51.	Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
+
+![image](https://user-images.githubusercontent.com/116810935/219874813-cc96fe7d-5c36-4015-80ff-9ee3cc3cecf1.png)
+
+![image](https://user-images.githubusercontent.com/116810935/219874825-8f4b436f-d33d-43fa-8704-63e99c0a5aef.png)
+
+![image](https://user-images.githubusercontent.com/116810935/219874847-e7beaefe-c0b3-4ebe-87f0-d94656bc7abb.png)
+
+53. Determine el valor de C2 en la figura 15-102 cuando VA = VB.
+
+![image](https://user-images.githubusercontent.com/116810935/219874885-4fadac42-9ce9-4605-927b-5cf40c252a71.png)
+
+
+##### SECCIÓN 15–8 Potencia en circuitos RC 
+
+57.	En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
+
+![image](https://user-images.githubusercontent.com/116810935/219874912-a330e9f2-be60-4fb6-9b11-f34155bdcd19.png)
+
+59.	¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+
+![image](https://user-images.githubusercontent.com/116810935/219874923-16aa41cd-1416-48dc-8ec6-f8c54b2b2000.png)
+
+### CAPÍTULO 16
+SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
+
+1.	Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+
+15 kilociclos
+
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+3.	Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/116810935/219875387-099ad35e-8e02-47e7-85b8-c91614b7fbdb.png)
+
+5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/116810935/219875406-622ae149-c809-4ffe-a536-f5163fd96699.png)
+
+7.	Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/116810935/219875436-7b4a04f5-f573-42cf-80f5-207e5c5826f1.png)
+
+### SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+9.	Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/116810935/219875454-03e3cf71-9402-4a22-bf58-287c1b26b6b8.png)
+
+11.	Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/116810935/219875464-99e4fafd-406b-4158-9fbf-bef1ea631cd2.png)
+
+![image](https://user-images.githubusercontent.com/116810935/219875494-d9da532d-1ae3-4c0a-9e4b-206982f71c41.png)
+
+13.	Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/116810935/219875515-19fb96f8-3f36-4964-abfb-7ffddf794574.png)
+
+15.	Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias: (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/116810935/219875540-5dc521d0-27d5-4a17-8756-39bfe2735ce4.png)
+
+
+17.	Para el circuito de retardo de la figura 16-61, determine el retardo de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias: (a) 1 Hz (b) 100 Hz (c) 1 kHz (d ) 10kHz
+
+![image](https://user-images.githubusercontent.com/116810935/219875560-4417b19a-7744-4962-9cdf-f26fcb859d0a.png)
+
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+
+![image](https://user-images.githubusercontent.com/116810935/219875587-fa32c389-7b58-4add-ba3d-eee32f123a04.png)
+
+21.	¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/116810935/219875595-bd29e5fe-132e-4462-aecb-90c07bc7e1a0.png)
+
+SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+23.	Determine las siguientes cantidades en la figura 16-65:
+
+![image](https://user-images.githubusercontent.com/116810935/219875611-56fa6e9d-651b-4d47-bc37-b987db8380c9.png)
+
+25.	Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/116810935/219875623-6098abf3-6587-48dd-941a-df68b47e8e6d.png)
 
 
 
@@ -181,7 +315,10 @@ Expresamos la fórmula del voltaje de salida en función de la frecuencia, la cu
  
  ## 5.Conlusión 
  
- * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Ohm sirve para encontrar ya sea intensidad de corriente electrica, voltaje o resistencia tambien es posible evidenciar la relacion de la ley de watt para encontrar nuevos conceptos como potencia y enerigia.
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende los conceptos de las corriencetes RL y RC con sus 
+  características. 
+* En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
+
   
 * Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
 
